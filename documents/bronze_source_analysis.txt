@@ -1,0 +1,24 @@
+Interview source system experts
+
+## Business context & data ownership
+
+- who owns the data
+- what business process it supports
+- system and data documentation
+- data model and data catalog
+
+## Architecture and Tech Stack
+
+- How is data stored
+    - SQL, Oracle, AWS…
+- Integration capabilities
+    - API, Kafka, File, DB…
+
+## Extract & Load
+
+- Incremental vs. Full loads
+- data scope & historical needs
+- expected size of the extracts
+- data volume limitations
+- authentication and authorization
+    - tokens, SSH Keys, VPN…
